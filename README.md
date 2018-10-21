@@ -1,5 +1,7 @@
 ## Tentang
 
+Alhamdulillah puji syukur ke hadirat Allah SWT. Sholawat serta salam semoga selalu tercurahkan kepada Nabi Muhammad SAW.
+
 Quran-text adalah project untuk menyajikan kitab suci Al-Quran dalam bentuk file text ayat-per-ayat. Dimana satu ayat diwakili oleh satu buah file text. Sebagai contoh surah pertama (Al-Fatihah) ayat ke-3 lokasi penyimpanannya adalah `surah/1/3.txt`. Contoh lain surah kedua (Al-Baqarah) ayat ke 255 lokasi ayatnya adalah `surah/2/255.txt`.
 
 Al-Quran adalah kitab suci sempurna yang diturunkan Allah SWT. segala bentuk kesalahan yang ada pada project ini adalah pasti karena kebodohan dan kekhilafan saya sendiri. Untuk itu mohon dengan hormat jika anda menemukan ada suatu kesalahan untuk menghubungi saya melalui email.
