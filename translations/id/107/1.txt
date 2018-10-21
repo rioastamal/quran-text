@@ -1,0 +1,1 @@
+Tahukah kamu (orang) yang mendustakan agama?

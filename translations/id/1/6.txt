@@ -1,0 +1,1 @@
+Tunjukilah kami jalan yang lurus,

@@ -1,0 +1,1 @@
+Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.

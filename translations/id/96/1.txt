@@ -1,0 +1,1 @@
+Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,

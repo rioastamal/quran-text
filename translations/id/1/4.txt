@@ -1,0 +1,1 @@
+Pemilik hari pembalasan.

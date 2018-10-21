@@ -1,0 +1,1 @@
+Dan Allah lebih mengetahui tentang musuh-musuhmu. Cukuplah Allah menjadi pelindung dan cukuplah Allah menjadi penolong (bagimu).
