@@ -6,6 +6,10 @@ Quran-text adalah project untuk menyajikan kitab suci Al-Quran dalam bentuk file
 
 Al-Quran adalah kitab suci sempurna yang diturunkan Allah SWT. segala bentuk kesalahan yang ada pada project ini adalah pasti karena kebodohan dan kekhilafan saya sendiri. Untuk itu mohon dengan hormat jika anda menemukan ada suatu kesalahan untuk menghubungi saya melalui email.
 
+Project Al-Quran lain:
+
+- [quran-single-file](https://github.com/rioastamal/quran-single-file)
+
 ## Latar Belakang
 
 Latar belakang kenapa saya membuat project ini adalah karena pada handphone  saya yaitu Blackberry Passport (SE) tidak ada aplikasi atau mobile website Quran yang dapat berjalan dengan baik di perangkat saya tersebut. 
